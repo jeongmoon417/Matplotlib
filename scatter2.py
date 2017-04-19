@@ -16,8 +16,10 @@ Traceback (most recent call last):
     raise ValueError("x and y must be the same size")
 ValueError: x and y must be the same size
 
-ERROR FIXED : chaged value of x, y in fuction scatter
-              scatter([(1,1), (2,5), (3,6)], 50, color ='red')  ---> plt.scatter([1,2,3],[1,5,6], 100, color ='red')
+
+---------------------------------------------------------------------------------------------------------------------
+(ERROR FIXED) : chaged value of x, y in fuction scatter
+                scatter([(1,1), (2,5), (3,6)], 50, color ='red')  ---> plt.scatter([1,2,3],[1,5,6], 100, color ='red')
 
 '''
 import sys
